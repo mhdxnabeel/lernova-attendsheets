@@ -81,28 +81,27 @@ This project demonstrates practical full-stack product engineering:
 
 ## UI Screenshots
 
-Add screenshots to `assets/screenshots/` and update the file names below.
+### 1) Landing Page
+![Login Screen](assets/screenshots/landing.png)
 
-### 1) Login
+### 2) Login
 ![Login Screen](assets/screenshots/login.png)
 
-### 2) Teacher Dashboard
+### 3) Teacher Dashboard
 ![Teacher Dashboard](assets/screenshots/teacher-dashboard.png)
 
-### 3) Attendance Marking
+### 4) Student Dashboad
+![Login Screen](assets/screenshots/student-dashboard.png)
+
+### 5) Attendance Marking
 ![Attendance Marking Flow](assets/screenshots/attendance-marking.png)
 
-### 4) QR Attendance
+### 6) QR Attendance
 ![QR Attendance Screen](assets/screenshots/qr-attendance.png)
 
-### 5) Reports and Export
+### 7) Reports and Export
 ![Reports and Export Screen](assets/screenshots/reports-export.png)
-
-### Screenshot Checklist (Privacy-Safe)
-- Remove or blur student names, emails, IDs
-- Hide tokens, API keys, and environment values
-- Use demo/sample data only
 
 ## Contact
 
-If you would like a deeper technical review, feel free to reach out via GitHub or LinkedIn.
+If you would like a deeper technical review, feel free to reach out via GitHub, LinkedIn, Instagram, Email.
